@@ -1,8 +1,10 @@
 # Tweet_Sentiment_Logis_regress_from-scratch
 
 
-Logistic regression
-Supervised Machine Learning & Sentiment Analysis
+# Logistic regression
+
+# Supervised Machine Learning & Sentiment Analysis
+
 In supervised machine learning you have input features X and a set of labels Y.
 
 The goal is to minimize your error rates or cost as much as possible.
