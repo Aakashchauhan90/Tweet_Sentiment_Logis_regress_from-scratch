@@ -16,3 +16,10 @@ The best mapping from features to labels is achieved when the difference between
 The cost function F does this by comparing how closely the output Ŷ is to the label Y.
 
 Update the parameters and repeat the whole process until your cost is minimized.
+
+# Preprocessing
+Use of stemming and stop words for text pre-processing
+
+First, I remove all the words that don't add significant meaning to the tweets, aka. stop words and punctuation marks.
+In some contexts you won't have to eliminate punctuation. So you should think carefully about whether punctuation adds important information to your specific NLP task or not.
+Stemming in NLP is simply transforming any word to its base stem
